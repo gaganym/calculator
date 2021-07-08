@@ -1,0 +1,57 @@
+div{
+	background-color: #EAECEE;
+	margin: 50px;
+	width: 700px;
+	height: 650px;
+	margin: 0 auto;			/* horizontally centreing an element */
+	padding: 1px;
+}
+
+form{
+	text-align: center;
+}
+
+
+#screen{
+	background-color: #2E86C1;
+	width: 290px;
+	height: 150px;
+	margin: 0 auto;	
+	font-size: xx-large;
+	color: #000000;
+	text-align: right;
+	color: white;
+	word-wrap: break-word;
+
+
+}
+
+table{
+	background-color: #FFFFFF;
+	margin: 0 auto;
+	width: 300px;
+	height: 400px;
+	cursor: pointer;
+	
+}
+
+td{
+	width: 110px;
+	height: 60px;
+	text-align: center;
+	font-size: xx-large;
+
+}
+
+.blue{
+	color: #5DADE2;
+	background-color: #F4F6F6; 
+}
+
+td:active{
+	background-color: #ABB2B9;
+}
+
+td:hover{
+	background-color: #FAE5D3;
+}
